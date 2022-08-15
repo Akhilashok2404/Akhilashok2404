@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Akhilashok2404
+- 👀 I’m interested in Technical writing
+- 🌱 I’m currently learning advanced software technical writing and API documentation
+- 💞️ I’m looking to collaborate with anyone who is interested in group work
+- 📫 You can reach me at 7034705925
